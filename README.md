@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Initial Commands:
+- `npm init -y`
+- `npm install next react react-dom`
