@@ -1,13 +1,28 @@
 {
-  "private": true,
+  "name": "next-js-practice",
+  "version": "1.0.0",
+  "description": "Initial Commands: - `npm init -y`",
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kairavkkp/next-js-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kairavkkp/next-js-practice/issues"
+  },
+  "homepage": "https://github.com/kairavkkp/next-js-practice#readme",
   "dependencies": {
-    "next": "latest",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "^13.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
